@@ -11,14 +11,14 @@
     }
 </style>
 
-<h2>Lista de Usuários</h2>
-<a href="index.php?acao=criar">Novo Usuário</a>
+<h2>Lista de Usuários</h2><br><br>
+<a href="index.php?acao=criar">Novo Usuário</a><br><br>
 <table border="01">
     <tr>
         <th>ID</th>
         <th>Nome</th>
         <th>Email</th>
-        <th>Iagem</th>
+        <th>Imagem</th>
         <th>Ação</th>
     </tr>
 <?php
